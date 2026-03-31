@@ -65,7 +65,7 @@ Displays:
 
 ---
 
-### 📊 Script 4 — Log File Analyzer
+### Script 4 — Log File Analyzer
 
 * Reads a log file
 * Counts occurrences of keywords (like ERROR)
