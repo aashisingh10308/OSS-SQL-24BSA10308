@@ -1,8 +1,8 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Your Name
+# Author: AASHI SINGH
 
-STUDENT_NAME="Your Name"
+STUDENT_NAME="AASHI SINGH"
 SOFTWARE_CHOICE="MySQL"
 
 echo "================================"
